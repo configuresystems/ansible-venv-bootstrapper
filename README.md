@@ -37,3 +37,12 @@ For an environment with a rackspace configuration, run this command:
 `bash <( curl https://raw.githubusercontent.com/configuresystems/ansible-venv-bootstrapper/master/bootstrapper.sh ) /full/path/to/directory/for/install USERNAME API_KEY`
 
 Replace USERNAME and API_KEY, with your actual Rackspace Username and Api Key.
+
+### Tested On
+
+System | Status
+------------ | -------------
+CentOS 6.X | Working
+Ubuntu 12.04 | Working
+Ubuntu 14.04 | Working
+OSX 10.9.4 | Working
